@@ -1,2 +1,5 @@
-#ASGG Git Workshop
+##ASGG Git Workshop
+
 Hello World!
+
+Git is Cool?
